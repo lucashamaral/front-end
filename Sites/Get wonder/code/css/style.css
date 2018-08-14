@@ -1,0 +1,22 @@
+/* line 2, ../sass/header.scss */
+.logo h2 {
+  font-family: handlee;
+}
+
+/* line 7, ../sass/header.scss */
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+/* line 11, ../sass/header.scss */
+.menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  align-items: flex-end;
+}
+/* line 16, ../sass/header.scss */
+.menu ul li {
+  display: inline;
+}
